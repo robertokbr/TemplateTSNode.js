@@ -9,6 +9,7 @@
 
 ```jsx
 $ yarn
+$ yarn dev:server
 ```
 ### ⇒ Dependencies
 
