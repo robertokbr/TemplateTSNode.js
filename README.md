@@ -64,8 +64,8 @@ $ yarn dev:server
                 },
             ```
 
-    - + Pugin eslint-import-resolver-typescript ⇒ Config TypeScript imports and  the .ts extensions
-    - + .eslintignore : /*.js , node_modules , dist
+    - + Plugin eslint-import-resolver-typescript ⇒ Config TypeScript imports and  the .ts extensions
+    - + .eslintignore : ``` /*.js , node_modules , dist```
 
 ### ⇒ Code Style Automator
 
@@ -78,9 +78,9 @@ $ yarn dev:server
 - .vscode/launch.json
 
     ```jsx
-    		"request": "attach",
-         "protocol": "inspector",
-         "restart": true,
+  "request": "attach",
+  "protocol": "inspector",
+  "restart": true,
     ```
 
 ### ⇒ Middleware
