@@ -8,6 +8,7 @@
 - Install yarn and run the cmd
 
 ```jsx
+$ git clone https://github.com/robertokbr/NodeTS-template.git
 $ yarn
 $ yarn dev:server
 ```
