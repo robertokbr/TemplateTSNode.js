@@ -9,6 +9,7 @@
 
 ```jsx
 $ git clone https://github.com/robertokbr/NodeTS-template.git
+$ cd NodeTs-template
 $ yarn
 $ yarn dev:server
 ```
