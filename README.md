@@ -13,6 +13,10 @@ $ cd NodeTs-template
 $ yarn
 $ yarn dev:server
 ```
+
+<h4 align="center">
+<img src="https://github.com/robertokbr/NodeTS-template/blob/master/ExempleGif/8HcMqPhkwW.gif" width="500px" /><br>
+
 ### ⇒ Dependencies
 
 - express
