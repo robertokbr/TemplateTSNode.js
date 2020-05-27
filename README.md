@@ -67,13 +67,13 @@ $ yarn dev:server
                 },
             ```
 
-    - + Plugin eslint-import-resolver-typescript ⇒ Config TypeScript imports and  the .ts extensions
-    - + .eslintignore : ``` /*.js , node_modules , dist```
+    - Plugin eslint-import-resolver-typescript ⇒ Config TypeScript imports and  the .ts extensions
+    - .eslintignore : ``` /*.js , node_modules , dist```
 
 ### ⇒ Code Style Automator
 
 - Prettier
-    - + eslint-config-prettier , eslint-plugin-prettier
+    - eslint-config-prettier , eslint-plugin-prettier
     - prettier.config.js
 
 ### ⇒ Setting Debug
