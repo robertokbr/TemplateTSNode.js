@@ -1,7 +1,7 @@
 import { Router } from 'express';
-import firstRoute from './firstRoute.routes';
+import repository from './repository.routes';
 
 const routes = Router();
-routes.use('/', firstRoute);
+routes.use('/repository', repository);
 
 export default routes;
