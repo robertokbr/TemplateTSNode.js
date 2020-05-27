@@ -7,15 +7,13 @@
 
 - Install yarn and run the cmd
 
+<img src="https://github.com/robertokbr/NodeTS-template/blob/master/ExempleGif/8HcMqPhkwW.gif" width="500px" /><br>
 ```jsx
 $ git clone https://github.com/robertokbr/NodeTS-template.git
 $ cd NodeTs-template
 $ yarn
 $ yarn dev:server
 ```
-
-<h4 align="center">
-<img src="https://github.com/robertokbr/NodeTS-template/blob/master/ExempleGif/8HcMqPhkwW.gif" width="500px" /><br>
 
 ### ⇒ Dependencies
 
