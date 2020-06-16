@@ -7,7 +7,7 @@
 
 - Install yarn and run the cmd
 
-<img src="https://github.com/robertokbr/NodeTS-template/blob/master/ExempleGif/8HcMqPhkwW.gif" width="500px" /><br>
+
 ```jsx
 $ git clone https://github.com/robertokbr/NodeTS-template.git
 $ cd NodeTs-template
