@@ -1,7 +1,12 @@
-<h4 align="center">
-<img src="https://raw.githubusercontent.com/TypeStrong/ts-node/HEAD/logo.svg?sanitize=true" width="500px" /><br>
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/TypeStrong/ts-node/HEAD/logo.svg?sanitize=true" width="500px" /><br>
+    <br>
+    Node.JS + Typescript template 
+</h1>
 
-# NodeTS-template
+<h4 align="center">
+  Template to start the API development with Typescript
+</h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/robertokbr/NodeTS-template.svg">
 
@@ -34,16 +39,22 @@
 - Babel
 
 
-### 💻 HOW TO USE
+## :information_source: How To Use
 
-- Install yarn and run the cmd
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
 
-
-```jsx
+```bash
+# Clone this repository
 $ git clone https://github.com/robertokbr/NodeTS-template.git
-$ cd NodeTs-template
-$ yarn
-$ yarn dev
+
+# Go into the repository
+$ cd NodeTS-template
+
+# Install dependencies
+$ yarn install
+
+# Run the app
+$ yarn start
 ```
 
 ### 🕹 Config ESLint autocorrect 
@@ -75,3 +86,10 @@ $ yarn dev
       },
             ```
 
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/robertokbr/NodeTS-template/blob/master/LICENSE) for more information.
+
+Roberto Júnior :wave: [Get in touch!](https://www.linkedin.com/in/robertojrcdc/)
+
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
