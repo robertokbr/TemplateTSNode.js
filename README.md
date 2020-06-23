@@ -24,8 +24,6 @@
   <a href="https://github.com/robertokbr/NodeTS-template/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/robertokbr/NodeTS-template.svg">
   </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/robertokbr/NodeTS-template.svg">
 </p>
 
 ## 🔧 Features
