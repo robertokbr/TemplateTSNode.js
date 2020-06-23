@@ -83,13 +83,5 @@ $ yarn start
      "editor.codeActionsOnSave": {
      "source.fixAll.eslint": true 
         }
-      },
-            ```
-
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/robertokbr/NodeTS-template/blob/master/LICENSE) for more information.
-
-Roberto Júnior :wave: [Get in touch!](https://www.linkedin.com/in/robertojrcdc/)
-
-[nodejs]: https://nodejs.org/
-[yarn]: https://yarnpkg.com/
+      } 
+      ```
