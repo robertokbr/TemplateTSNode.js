@@ -62,7 +62,8 @@ $ yarn start
  -  Install ESLint VSCode integration 
  -  Add in settings.json
 
-   ```jsx
+      ```
+      jsx
      "[javascript]": {
      "editor.codeActionsOnSave": {
      "source.fixAll.eslint": true,
@@ -83,5 +84,9 @@ $ yarn start
      "editor.codeActionsOnSave": {
      "source.fixAll.eslint": true 
         }
-      } 
+      }
+     ```
+      ---
     
+    
+Join me on :wave: [Linkedin](https://www.linkedin.com/in/robertojrcdc/)
