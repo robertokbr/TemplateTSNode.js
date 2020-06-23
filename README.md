@@ -87,6 +87,8 @@ $ yarn start
       }
      ```
       ---
-    
+
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/robertokbr/NodeTS-template/blob/master/LICENSE) for more information.
     
 Join me on :wave: [Linkedin](https://www.linkedin.com/in/robertojrcdc/)
