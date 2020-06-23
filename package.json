@@ -6,15 +6,15 @@
   "author": "Roberto Junior <robertojr-13-@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev --respawn --transpileOnly --ignore-watch node_modules src/server.ts"
+    "dev": "ts-node-dev -r tsconfig-paths/register --respawn --transpileOnly --ignore-watch node_modules src/server.ts"
   },
   "devDependencies": {
     "@types/express": "^4.17.6",
-    "typescript": "^3.9.5",
-    "ts-node-dev": "^1.0.0-pre.49"
+    "ts-node-dev": "^1.0.0-pre.49",
+    "tsconfig-paths": "^3.9.0",
+    "typescript": "^3.9.5"
   },
   "dependencies": {
     "express": "^4.17.1"
-    
   }
 }
