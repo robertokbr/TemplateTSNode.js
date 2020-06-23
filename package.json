@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "build":" babel src --extensions \" .js, .ts\" --out-dir dist --copy-files --no-copy-ignored",
-    "dev": "ts-node-dev -r tsconfig-paths/register --respawn --transpileOnly --ignore-watch node_modules src/server.ts",
+    "dev": "ts-node-dev --inspect -r tsconfig-paths/register --respawn --transpileOnly --ignore-watch node_modules src/server.ts",
     "test": "jest",
     "start": "node dist/server.js"
   },
